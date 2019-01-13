@@ -1,4 +1,6 @@
-# Finished weeks:
+# 2019-01-13
+
+## Finished days:
 
 - 2018-12-06
 - 2018-12-10
