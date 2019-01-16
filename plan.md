@@ -18,4 +18,4 @@
    - Geometry
    - Intermediate Algebra
 - Finish above three subjects first
-- Work on finishing number theory
+- Work on finishing number theory last 2/3
