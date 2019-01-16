@@ -4,7 +4,7 @@
 - Pre-algebra
 - Algebra
 
-# Unsure
+# Survey
 - Counting and probability
 - Geometry
 - Intermediate Algebra
